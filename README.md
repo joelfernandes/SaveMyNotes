@@ -3,11 +3,11 @@ SaveMyNotes
 
 This application was developed to meet the needs below. But it is simple enough to serve as a reference for the future (copy + paste).
 Features:
-	* Custom list adapter
-	* Custom list empty view
-	* Simple Database 
-	* CRUD using DAO
-	* Menus.
+>	* Custom list adapter
+>	* Custom list empty view
+>	* Simple Database 
+>	* CRUD using DAO
+>	* Menus.
 
 Save My Notes!
 
